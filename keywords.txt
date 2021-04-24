@@ -1,0 +1,73 @@
+Steelsquid	KEYWORD1
+init	KEYWORD2
+executeEvery	KEYWORD2
+crc	KEYWORD2
+
+Ssd1306	KEYWORD1
+init	KEYWORD2
+printTextToScreen	KEYWORD2
+
+M5stackCardKB	KEYWORD1
+check	KEYWORD2
+getText	KEYWORD2
+clearText	KEYWORD2
+isKeyPressed	KEYWORD2
+isEnterPressed	KEYWORD2
+isTabPressed	KEYWORD2
+isUpPressed	KEYWORD2
+isLeftPressed	KEYWORD2
+isRightPressed	KEYWORD2
+isDownPressed	KEYWORD2
+
+KeyboardReader	KEYWORD1
+addChar	KEYWORD2
+getText	KEYWORD2
+clearText	KEYWORD2
+isKeyPressed	KEYWORD2
+isEnterPressed	KEYWORD2
+isTabPressed	KEYWORD2
+isUpPressed	KEYWORD2
+isLeftPressed	KEYWORD2
+isRightPressed	KEYWORD2
+isDownPressed	KEYWORD2
+
+Feather	KEYWORD1
+batteryVoltage	KEYWORD2
+batteryPercent	KEYWORD2
+
+FeatherRfm9X KEYWORD1
+init	KEYWORD2
+initRepeter	KEYWORD2
+toAddress	KEYWORD2
+transmitRepeterPing	KEYWORD2
+transmitRepeterPong	KEYWORD2
+transmitPing	KEYWORD2
+transmitPong	KEYWORD2
+transmitAck	KEYWORD2
+transmitNak	KEYWORD2
+transmitString	KEYWORD2
+available	KEYWORD2
+receive	KEYWORD2
+received	KEYWORD2
+receivedString	KEYWORD2
+lastRssi	KEYWORD2
+lastSnr	KEYWORD2
+lastRxLength	KEYWORD2
+lastTxFrom	KEYWORD2
+lastTxTo	KEYWORD2
+lastRxFrom	KEYWORD2
+lastRxTo	KEYWORD2
+
+FeatherwingGPS KEYWORD1
+init	KEYWORD2
+hasLock	KEYWORD2
+latDegrees	KEYWORD2
+latMinutes	KEYWORD2
+latNS	KEYWORD2
+longDegrees	KEYWORD2
+longMinutes	KEYWORD2
+longWE	KEYWORD2
+speed	KEYWORD2
+angle	KEYWORD2
+latitude	KEYWORD2
+longitude	KEYWORD2
